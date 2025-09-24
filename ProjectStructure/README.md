@@ -10,16 +10,16 @@ Project Structure
 The project is organized into a clean structure to ensure the codebase is readable and maintainable.
 
 /kahawa-tamu-website/
-├── kahawatamu.html  (The homepage)
-├── about.html        (Our story)
-├── menu.html         (List of coffee drinks and pastries)
-├── contact.html      (Contact form details)
+├── index.html  (The homepage)
+├── about.html  (Our story)
+├── menu.html   (List of coffee drinks and pastries)
+├── contact.html (Contact form details)
 ├── /css/
-│   └── kahawatamu.css     (All global styles, layouts, and animations)
+│   └── kahawatamu.css (All global styles, layouts, and animations)
 ├── /js/
-│   └── kahawatamu.js     (All JavaScript for interactivity)
+│   └── kahawatamu.js  (All JavaScript for interactivity)
 └── /images/
-    └── ...           (High-quality images used across all pages)
+    └── ...     (High-quality images used across all pages)
 
 Key Features
 Responsive design: The website adapts seamlessly to all devices, from small mobile screens to large desktops.
@@ -33,5 +33,5 @@ Interactive elements: The site includes a hero section with a text animation on 
 Live URL
 A live version of this website can be viewed at:
 
-[Insert Live URL Here]
+[https://n4tasha-tech.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/menu.html]
 
